@@ -4,7 +4,7 @@ My name is Quinn Lindsey and i'm a Computer Science student at Penn State Univer
 
 - 🔭 I’m currently working on Waltr
   
-- 🌱 I’m currently learning MongoDB & React
+- 🌱 I’m currently learning Typescript and AI Agent Tools
   
 - 📫 How to reach me: quislin77@gmail.com
 
